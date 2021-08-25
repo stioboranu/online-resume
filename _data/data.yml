@@ -1,19 +1,19 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Alexandru Stioboranu
+  title: Software Developer
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: stioboranu.alexandru@gmail.com
+  phone: +40 0754864290
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: stioboranu.github.io
   medium:
-  linkedin:
+  linkedin: www.linkedin.com/in/alexandru-stioboranu-566736193
   googlescholar:
   researchgate:
   github: github
