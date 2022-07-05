@@ -39,7 +39,7 @@ experiences:
   title: Experiences
   items:
     - role: Software Developer
-      time: 2020.06 - Present
+      time: 2022.06 - 2022.12
       company: Endava
       tag: Hibrid, full-time
       location: Brasov
@@ -62,14 +62,14 @@ experiences:
         + Familiar with software development tools and programming languages.
         + Aware of industry standards as well as it infrastructure, it applications and services within the organization.
         + Designs, codes, tests, corrects and documents organization programs.
-
-     - role: Intern
+        
+    - role: Intern
       time: 2019.12 - 2020.06
-      company: Waters
+      company: Endava
       tag: Hibrid, part-time
       location: Brasov
       details: |
-        Roles fullfilled at Waters were:
+        Roles fulfilled at Waters were: 
         + Good communication skills and good English language skills.
         + Familiar with software development tools and programming languages.
 
