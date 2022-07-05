@@ -2,7 +2,7 @@ basic:
   name: Alexandru Stioboranu
   title: Software Developer
   avatar:
-    display: true
+    display: false
     path: profile.jpg
 
 contact:
@@ -38,29 +38,40 @@ experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: Software Developer
+      time: 2020.06 - Present
+      company: Endava
+      tag: Hibrid, full-time
+      location: Brasov
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Roles fulfilled at Endava are: 
+        + Designs, codes, tests, corrects and documents simple programs and assists in the implementation of software which forms part of a properly engineered information or communications system.
+        + Works under routine supervision. Uses minor discretion in resolving problems or enquiries. Works without frequent reference to others. 
+        + Good communication skills and good English language skills.
+        + Familiar with software development tools and programming languages.
+        + Aware of industry standards as well as it infrastructure, it applications and services within the organization.
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Sofware Developer
+      time: 2020.09 - 2022.06
+      company: Waters
+      tag: Remote, full-time
+      location: Brasov
       details: |
-        Experience in this company:
-        + First
-        + Second
+        Roles fullfilled at Waters were:
+        + Good communication skills and good English language skills.
+        + Familiar with software development tools and programming languages.
+        + Aware of industry standards as well as it infrastructure, it applications and services within the organization.
+        + Designs, codes, tests, corrects and documents organization programs.
 
-        ...
+     - role: Intern
+      time: 2019.12 - 2020.06
+      company: Waters
+      tag: Hibrid, part-time
+      location: Brasov
+      details: |
+        Roles fullfilled at Waters were:
+        + Good communication skills and good English language skills.
+        + Familiar with software development tools and programming languages.
 
 projects:
   display: true
